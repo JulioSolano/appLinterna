@@ -1,5 +1,7 @@
 {
   "name": "appLinterna",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
